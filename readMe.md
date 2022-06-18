@@ -1,0 +1,1 @@
+This is the assignment for the Responsiveness and Media Queries
